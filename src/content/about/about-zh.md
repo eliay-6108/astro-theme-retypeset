@@ -1,6 +1,5 @@
 ---
 title: About
-lang: zh
 published: 2025-12-11
 ---
 
