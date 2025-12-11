@@ -1,7 +1,7 @@
 ---
 title: KaTeX Mathematical Demo
 published: 2025-04-01
-lang: en
+lang: zh
 abbrlink: katex-mathematical-demo
 ---
 
