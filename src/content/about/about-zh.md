@@ -1,5 +1,6 @@
 ---
 title: About
+long: zh
 published: 2025-12-11
 ---
 
