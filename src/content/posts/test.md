@@ -1,6 +1,6 @@
 ---
 title: test
-published: "2025-12-11T12:16:39.249Z"
+published: 2025-12-11
 # description: ''
 # updated: ''
 # tags:
